@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-dzhurley",
+  "version": "1.0.0",
+  "description": "dzhurley's base eslint ruleset",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dzhurley/eslint-config-dzhurley.git"
+  },
+  "keywords": [
+    "eslint",
+    "dzhurley",
+    "config",
+    "base",
+    "eslintrc"
+  ],
+  "author": "dzhurley",
+  "license": "MIT"
+}
