@@ -41,7 +41,11 @@ module.exports = {
 
         // variables
         'no-undefined': 2,
-        'no-unused-vars': [2, { args: 'all' }],
+        'no-unused-vars': [2, {
+            args: 'all',
+            argsIgnorePattern: '^_$',
+            varsIgnorePattern: '^_$'
+        }],
 
         // stylistic issues
         'array-bracket-spacing': 2,

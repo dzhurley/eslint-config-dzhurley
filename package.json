@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dzhurley",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dzhurley's base eslint ruleset",
   "main": "index.js",
   "repository": {
