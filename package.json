@@ -8,7 +8,7 @@
     "url": "git://github.com/dzhurley/eslint-config-dzhurley.git"
   },
   "peerDependencies": {
-      "eslint": ">= 3"
+    "eslint": ">= 3"
   },
   "keywords": [
     "eslint",
